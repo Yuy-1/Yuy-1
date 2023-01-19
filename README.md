@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **royceisom@pm.me**
 
-- ⚡ Fun fact **I was stationed in England and South Korea**
+- ⚡ Fun fact **I was stationed overseas in England and South Korea**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
