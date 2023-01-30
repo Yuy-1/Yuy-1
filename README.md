@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Royce</h1>
 <h3 align="center">A passionate frontend developer from Baltimore</h3>
 
-- 🔭 I’m currently looking for **a full time web dev position**
+- 🔭 I’m currently looking for **a full time web developer position**
 
 - 🌱 I’m currently learning **React & SvelteKit**
 
