@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React & SvelteKit**
 
-- 👯 I’m looking to collaborate on **non-profit open source projects**
+- 👯 I’m looking to collaborate on **open source projects**
 
 - 📫 How to reach me **royceisom@pm.me**
 
