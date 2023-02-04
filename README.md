@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects can be run via the **link inside the readme!**
 
-- 📫 How to reach me **royceisom@pm.me**
+- 📫 How to reach me **roycedev@proton.me**
 
 - ⚡ Fun fact **I was stationed in England and South Korea**
 
