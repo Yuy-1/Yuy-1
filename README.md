@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for **a full time web developer position**
 
-- 🌱 I’m currently learning **React & SvelteKit**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
