@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Royce</h1>
 <h3 align="center">A passionate developer from Baltimore</h3>
 
-- 🔭 I’m currently looking for **A Web Developer or Data Analyst role**
+- 🔭 I’m currently looking for **a Data Engineer or Data Analyst role**
 
 - 🌱 I’m currently learning **Rust**
 
